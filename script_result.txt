@@ -1,0 +1,1311 @@
+[H[2J[3J=== Stopping containers and removing volumes ===
+=== Starting containers ===
+env variables loaded from .env.influxdb
+✅ Environment loaded
+Created observation: 0
+Created observation: 1
+Created observation: 2
+Created observation: 3
+Created observation: 4
+Created observation: 5
+Created observation: 6
+Created observation: 7
+Created observation: 8
+Created observation: 9
+Created observation: 10
+Created observation: 11
+Created observation: 12
+Created observation: 13
+Created observation: 14
+Created observation: 15
+Created observation: 16
+Created observation: 17
+Created observation: 18
+Created observation: 19
+Created observation: 20
+Created observation: 21
+Created observation: 22
+Created observation: 23
+Created observation: 24
+Created observation: 25
+Created observation: 26
+Created observation: 27
+Created observation: 28
+Created observation: 29
+Created observation: 30
+Created observation: 31
+Created observation: 32
+Created observation: 33
+Created observation: 34
+Created observation: 35
+Created observation: 36
+Created observation: 37
+Created observation: 38
+Created observation: 39
+Created observation: 40
+Created observation: 41
+Created observation: 42
+Created observation: 43
+Created observation: 44
+Created observation: 45
+Created observation: 46
+Created observation: 47
+Created observation: 48
+Created observation: 49
+Created observation: 50
+Created observation: 51
+Created observation: 52
+Created observation: 53
+Created observation: 54
+Created observation: 55
+Created observation: 56
+Created observation: 57
+Created observation: 58
+Created observation: 59
+Created observation: 60
+Created observation: 61
+Created observation: 62
+Created observation: 63
+Created observation: 64
+Created observation: 65
+Created observation: 66
+Created observation: 67
+Created observation: 68
+Created observation: 69
+Created observation: 70
+Created observation: 71
+Created observation: 72
+Created observation: 73
+Created observation: 74
+Created observation: 75
+Created observation: 76
+Created observation: 77
+Created observation: 78
+Created observation: 79
+Created observation: 80
+Created observation: 81
+Created observation: 82
+Created observation: 83
+Created observation: 84
+Created observation: 85
+Created observation: 86
+Created observation: 87
+Created observation: 88
+Created observation: 89
+Created observation: 90
+Created observation: 91
+Created observation: 92
+Created observation: 93
+Created observation: 94
+Created observation: 95
+Created observation: 96
+Created observation: 97
+Created observation: 98
+Created observation: 99
+
+
+
+
+Queried observations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total observations retrieved: 100
+(Observation(time=2026-02-04 14:52:09.417495+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7128, longitude=-74.006,
+  temperature=20.5 C,
+  humidity=50.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[3, 2, 1, 5]))
+
+(Observation(time=2026-02-04 15:52:09.427660+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7138, longitude=-74.005,
+  temperature=21.5 C,
+  humidity=51.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4]))
+
+(Observation(time=2026-02-04 16:52:09.438015+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.714800000000004, longitude=-74.004,
+  temperature=22.5 C,
+  humidity=52.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[4]))
+
+(Observation(time=2026-02-04 17:52:09.448201+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7158, longitude=-74.003,
+  temperature=23.5 C,
+  humidity=53.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[4, 3, 2]))
+
+(Observation(time=2026-02-04 18:52:09.458563+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7168, longitude=-74.002,
+  temperature=24.5 C,
+  humidity=54.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[3, 5, 4]))
+
+(Observation(time=2026-02-04 19:52:09.468915+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.717800000000004, longitude=-74.001,
+  temperature=25.5 C,
+  humidity=55.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[1, 0, 4]))
+
+(Observation(time=2026-02-04 20:52:09.479249+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7188, longitude=-74.0,
+  temperature=26.5 C,
+  humidity=56.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[1]))
+
+(Observation(time=2026-02-04 21:52:09.489449+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7198, longitude=-73.999,
+  temperature=27.5 C,
+  humidity=57.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[1]))
+
+(Observation(time=2026-02-04 22:52:09.499706+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.720800000000004, longitude=-73.998,
+  temperature=28.5 C,
+  humidity=58.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[1, 3, 0, 4, 5]))
+
+(Observation(time=2026-02-04 23:52:09.510280+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7218, longitude=-73.997,
+  temperature=29.5 C,
+  humidity=59.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[2, 1, 0, 5, 3]))
+
+(Observation(time=2026-02-05 00:52:09.520754+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7228, longitude=-73.996,
+  temperature=20.5 C,
+  humidity=60.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[1, 2, 3, 0, 5, 4]))
+
+(Observation(time=2026-02-05 01:52:09.531623+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.723800000000004, longitude=-73.995,
+  temperature=21.5 C,
+  humidity=61.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4, 5, 0, 1, 3, 2]))
+
+(Observation(time=2026-02-05 02:52:09.542129+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7248, longitude=-73.994,
+  temperature=22.5 C,
+  humidity=62.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[0, 1, 4]))
+
+(Observation(time=2026-02-05 03:52:09.552748+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7258, longitude=-73.993,
+  temperature=23.5 C,
+  humidity=63.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[0, 5]))
+
+(Observation(time=2026-02-05 04:52:09.563168+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.726800000000004, longitude=-73.992,
+  temperature=24.5 C,
+  humidity=64.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[3, 1, 5]))
+
+(Observation(time=2026-02-05 05:52:09.573477+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7278, longitude=-73.991,
+  temperature=25.5 C,
+  humidity=65.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[3]))
+
+(Observation(time=2026-02-05 06:52:09.583978+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7288, longitude=-73.99,
+  temperature=26.5 C,
+  humidity=66.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[3, 2, 4, 0, 5, 1]))
+
+(Observation(time=2026-02-05 07:52:09.594368+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.729800000000004, longitude=-73.989,
+  temperature=27.5 C,
+  humidity=67.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[2, 1, 5]))
+
+(Observation(time=2026-02-05 08:52:09.604684+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7308, longitude=-73.988,
+  temperature=28.5 C,
+  humidity=68.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[3, 5]))
+
+(Observation(time=2026-02-05 09:52:09.615162+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7318, longitude=-73.987,
+  temperature=29.5 C,
+  humidity=69.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[3, 1, 2, 4, 5]))
+
+(Observation(time=2026-02-05 10:52:09.625724+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.732800000000005, longitude=-73.986,
+  temperature=20.5 C,
+  humidity=50.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[0, 4, 2, 1, 5]))
+
+(Observation(time=2026-02-05 11:52:09.635947+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7338, longitude=-73.985,
+  temperature=21.5 C,
+  humidity=51.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[2, 4, 0, 1, 5, 3]))
+
+(Observation(time=2026-02-05 12:52:09.646119+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7348, longitude=-73.984,
+  temperature=22.5 C,
+  humidity=52.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[1, 2]))
+
+(Observation(time=2026-02-05 13:52:09.656481+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.735800000000005, longitude=-73.983,
+  temperature=23.5 C,
+  humidity=53.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[5, 2, 0, 4]))
+
+(Observation(time=2026-02-05 14:52:09.666851+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7368, longitude=-73.982,
+  temperature=24.5 C,
+  humidity=54.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[2, 4]))
+
+(Observation(time=2026-02-05 15:52:09.677420+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7378, longitude=-73.981,
+  temperature=25.5 C,
+  humidity=55.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[1, 4, 5, 0]))
+
+(Observation(time=2026-02-05 16:52:09.687951+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.738800000000005, longitude=-73.98,
+  temperature=26.5 C,
+  humidity=56.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[2]))
+
+(Observation(time=2026-02-05 17:52:09.698279+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7398, longitude=-73.979,
+  temperature=27.5 C,
+  humidity=57.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[1, 0, 2]))
+
+(Observation(time=2026-02-05 18:52:09.708780+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7408, longitude=-73.978,
+  temperature=28.5 C,
+  humidity=58.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[3, 1, 5, 0, 2]))
+
+(Observation(time=2026-02-05 19:52:09.718919+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.741800000000005, longitude=-73.977,
+  temperature=29.5 C,
+  humidity=59.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[3, 0, 5]))
+
+(Observation(time=2026-02-05 20:52:09.729126+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7428, longitude=-73.976,
+  temperature=20.5 C,
+  humidity=60.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[3, 4]))
+
+(Observation(time=2026-02-05 21:52:09.739466+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7438, longitude=-73.975,
+  temperature=21.5 C,
+  humidity=61.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[2]))
+
+(Observation(time=2026-02-05 22:52:09.750117+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7448, longitude=-73.974,
+  temperature=22.5 C,
+  humidity=62.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[0]))
+
+(Observation(time=2026-02-05 23:52:09.760898+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7458, longitude=-73.973,
+  temperature=23.5 C,
+  humidity=63.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[0, 5, 2, 3, 4]))
+
+(Observation(time=2026-02-06 00:52:09.771366+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7468, longitude=-73.972,
+  temperature=24.5 C,
+  humidity=64.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[0, 4]))
+
+(Observation(time=2026-02-06 01:52:09.781808+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7478, longitude=-73.971,
+  temperature=25.5 C,
+  humidity=65.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[3, 5, 1, 4]))
+
+(Observation(time=2026-02-06 02:52:09.792090+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7488, longitude=-73.97,
+  temperature=26.5 C,
+  humidity=66.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[0, 2, 1, 3]))
+
+(Observation(time=2026-02-06 03:52:09.802454+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7498, longitude=-73.969,
+  temperature=27.5 C,
+  humidity=67.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[4, 5, 2, 0, 1, 3]))
+
+(Observation(time=2026-02-06 04:52:09.813077+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7508, longitude=-73.968,
+  temperature=28.5 C,
+  humidity=68.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[1, 0, 3, 4, 2, 5]))
+
+(Observation(time=2026-02-06 05:52:09.823737+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7518, longitude=-73.967,
+  temperature=29.5 C,
+  humidity=69.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[4, 0, 5, 3, 2, 1]))
+
+(Observation(time=2026-02-06 06:52:09.834111+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7528, longitude=-73.966,
+  temperature=20.5 C,
+  humidity=50.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[4, 0, 3]))
+
+(Observation(time=2026-02-06 07:52:09.844299+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7538, longitude=-73.965,
+  temperature=21.5 C,
+  humidity=51.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4, 2, 3]))
+
+(Observation(time=2026-02-06 08:52:09.854455+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7548, longitude=-73.964,
+  temperature=22.5 C,
+  humidity=52.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[0, 1]))
+
+(Observation(time=2026-02-06 09:52:09.864919+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7558, longitude=-73.963,
+  temperature=23.5 C,
+  humidity=53.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[3, 2, 1]))
+
+(Observation(time=2026-02-06 10:52:09.875417+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7568, longitude=-73.962,
+  temperature=24.5 C,
+  humidity=54.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[4, 3, 1]))
+
+(Observation(time=2026-02-06 11:52:09.885879+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7578, longitude=-73.961,
+  temperature=25.5 C,
+  humidity=55.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[4, 0]))
+
+(Observation(time=2026-02-06 12:52:09.896434+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7588, longitude=-73.96,
+  temperature=26.5 C,
+  humidity=56.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4]))
+
+(Observation(time=2026-02-06 13:52:09.906990+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7598, longitude=-73.959,
+  temperature=27.5 C,
+  humidity=57.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[4, 3, 5, 0]))
+
+(Observation(time=2026-02-06 14:52:09.917626+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7608, longitude=-73.958,
+  temperature=28.5 C,
+  humidity=58.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[1]))
+
+(Observation(time=2026-02-06 15:52:09.928139+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7618, longitude=-73.957,
+  temperature=29.5 C,
+  humidity=59.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[2]))
+
+(Observation(time=2026-02-06 16:52:09.938785+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7628, longitude=-73.956,
+  temperature=20.5 C,
+  humidity=60.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[2, 3, 1, 5]))
+
+(Observation(time=2026-02-06 17:52:09.949277+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7638, longitude=-73.955,
+  temperature=21.5 C,
+  humidity=61.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[2, 5, 3, 0, 4, 1]))
+
+(Observation(time=2026-02-06 18:52:09.959417+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7648, longitude=-73.954,
+  temperature=22.5 C,
+  humidity=62.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[2, 1]))
+
+(Observation(time=2026-02-06 19:52:09.969964+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7658, longitude=-73.953,
+  temperature=23.5 C,
+  humidity=63.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[1, 2, 5, 0, 3]))
+
+(Observation(time=2026-02-06 20:52:09.980633+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7668, longitude=-73.952,
+  temperature=24.5 C,
+  humidity=64.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[1, 4, 2, 0]))
+
+(Observation(time=2026-02-06 21:52:09.990902+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7678, longitude=-73.951,
+  temperature=25.5 C,
+  humidity=65.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[2, 0, 4]))
+
+(Observation(time=2026-02-06 22:52:10.001227+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7688, longitude=-73.95,
+  temperature=26.5 C,
+  humidity=66.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[1, 3, 4, 5]))
+
+(Observation(time=2026-02-06 23:52:10.011659+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.769800000000004, longitude=-73.949,
+  temperature=27.5 C,
+  humidity=67.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[5, 3, 0, 1, 4, 2]))
+
+(Observation(time=2026-02-07 00:52:10.021973+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7708, longitude=-73.948,
+  temperature=28.5 C,
+  humidity=68.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[2, 4, 3, 0, 5, 1]))
+
+(Observation(time=2026-02-07 01:52:10.032544+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7718, longitude=-73.947,
+  temperature=29.5 C,
+  humidity=69.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[5, 4, 1]))
+
+(Observation(time=2026-02-07 02:52:10.042871+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.772800000000004, longitude=-73.946,
+  temperature=20.5 C,
+  humidity=50.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[4, 3, 0, 1, 2]))
+
+(Observation(time=2026-02-07 03:52:10.053121+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7738, longitude=-73.945,
+  temperature=21.5 C,
+  humidity=51.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[0, 1, 3, 5, 4, 2]))
+
+(Observation(time=2026-02-07 04:52:10.063390+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7748, longitude=-73.944,
+  temperature=22.5 C,
+  humidity=52.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[1, 2, 4, 3]))
+
+(Observation(time=2026-02-07 05:52:10.073921+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.775800000000004, longitude=-73.943,
+  temperature=23.5 C,
+  humidity=53.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[3, 0, 5, 1]))
+
+(Observation(time=2026-02-07 06:52:10.084084+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7768, longitude=-73.94200000000001,
+  temperature=24.5 C,
+  humidity=54.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[1, 2, 3, 5, 0, 4]))
+
+(Observation(time=2026-02-07 07:52:10.094505+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7778, longitude=-73.941,
+  temperature=25.5 C,
+  humidity=55.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[0, 2, 3, 4]))
+
+(Observation(time=2026-02-07 08:52:10.104938+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.778800000000004, longitude=-73.94,
+  temperature=26.5 C,
+  humidity=56.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[0, 5, 4, 1]))
+
+(Observation(time=2026-02-07 09:52:10.115383+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7798, longitude=-73.93900000000001,
+  temperature=27.5 C,
+  humidity=57.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[0, 4, 3, 1, 2, 5]))
+
+(Observation(time=2026-02-07 10:52:10.125954+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7808, longitude=-73.938,
+  temperature=28.5 C,
+  humidity=58.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[2, 4, 3, 5, 0]))
+
+(Observation(time=2026-02-07 11:52:10.136089+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.781800000000004, longitude=-73.937,
+  temperature=29.5 C,
+  humidity=59.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[5, 1, 0, 2, 4, 3]))
+
+(Observation(time=2026-02-07 12:52:10.146450+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7828, longitude=-73.936,
+  temperature=20.5 C,
+  humidity=60.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[2]))
+
+(Observation(time=2026-02-07 13:52:10.156570+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7838, longitude=-73.935,
+  temperature=21.5 C,
+  humidity=61.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4]))
+
+(Observation(time=2026-02-07 14:52:10.166888+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.784800000000004, longitude=-73.934,
+  temperature=22.5 C,
+  humidity=62.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[5, 2]))
+
+(Observation(time=2026-02-07 15:52:10.177238+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7858, longitude=-73.933,
+  temperature=23.5 C,
+  humidity=63.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[4, 3, 2]))
+
+(Observation(time=2026-02-07 16:52:10.187666+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7868, longitude=-73.932,
+  temperature=24.5 C,
+  humidity=64.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[5, 0, 2, 3, 4, 1]))
+
+(Observation(time=2026-02-07 17:52:10.197836+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.787800000000004, longitude=-73.931,
+  temperature=25.5 C,
+  humidity=65.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[5, 2, 3, 4, 1]))
+
+(Observation(time=2026-02-07 18:52:10.208061+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7888, longitude=-73.93,
+  temperature=26.5 C,
+  humidity=66.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4, 0, 5, 1]))
+
+(Observation(time=2026-02-07 19:52:10.218769+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7898, longitude=-73.929,
+  temperature=27.5 C,
+  humidity=67.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[3, 2, 5, 4]))
+
+(Observation(time=2026-02-07 20:52:10.229354+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.790800000000004, longitude=-73.928,
+  temperature=28.5 C,
+  humidity=68.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[4, 1, 3, 2, 0]))
+
+(Observation(time=2026-02-07 21:52:10.239853+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7918, longitude=-73.927,
+  temperature=29.5 C,
+  humidity=69.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[2, 4, 0, 1, 3, 5]))
+
+(Observation(time=2026-02-07 22:52:10.250202+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7928, longitude=-73.926,
+  temperature=20.5 C,
+  humidity=50.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[3, 2, 4, 0]))
+
+(Observation(time=2026-02-07 23:52:10.260670+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.793800000000005, longitude=-73.925,
+  temperature=21.5 C,
+  humidity=51.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4]))
+
+(Observation(time=2026-02-08 00:52:10.271137+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7948, longitude=-73.924,
+  temperature=22.5 C,
+  humidity=52.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[5, 3, 0, 4, 2, 1]))
+
+(Observation(time=2026-02-08 01:52:10.281549+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7958, longitude=-73.923,
+  temperature=23.5 C,
+  humidity=53.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[1]))
+
+(Observation(time=2026-02-08 02:52:10.292107+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.796800000000005, longitude=-73.922,
+  temperature=24.5 C,
+  humidity=54.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[1, 4, 2, 5, 0]))
+
+(Observation(time=2026-02-08 03:52:10.302505+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7978, longitude=-73.921,
+  temperature=25.5 C,
+  humidity=55.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[1, 3, 5, 4, 2]))
+
+(Observation(time=2026-02-08 04:52:10.313021+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.7988, longitude=-73.92,
+  temperature=26.5 C,
+  humidity=56.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[3, 2, 1]))
+
+(Observation(time=2026-02-08 05:52:10.323669+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.799800000000005, longitude=-73.919,
+  temperature=27.5 C,
+  humidity=57.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[1, 3, 5]))
+
+(Observation(time=2026-02-08 06:52:10.334129+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8008, longitude=-73.918,
+  temperature=28.5 C,
+  humidity=58.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[5, 0, 2, 1, 4]))
+
+(Observation(time=2026-02-08 07:52:10.344479+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8018, longitude=-73.917,
+  temperature=29.5 C,
+  humidity=59.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[2, 3]))
+
+(Observation(time=2026-02-08 08:52:10.354850+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.802800000000005, longitude=-73.916,
+  temperature=20.5 C,
+  humidity=60.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[5, 0]))
+
+(Observation(time=2026-02-08 09:52:10.365269+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8038, longitude=-73.915,
+  temperature=21.5 C,
+  humidity=61.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[4]))
+
+(Observation(time=2026-02-08 10:52:10.375736+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8048, longitude=-73.914,
+  temperature=22.5 C,
+  humidity=62.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[3, 4]))
+
+(Observation(time=2026-02-08 11:52:10.386094+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.805800000000005, longitude=-73.913,
+  temperature=23.5 C,
+  humidity=63.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[5, 4, 0, 1]))
+
+(Observation(time=2026-02-08 12:52:10.396299+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8068, longitude=-73.912,
+  temperature=24.5 C,
+  humidity=64.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[1]))
+
+(Observation(time=2026-02-08 13:52:10.406861+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8078, longitude=-73.911,
+  temperature=25.5 C,
+  humidity=65.0 %,
+  salinity=32.5 ppt,
+  quality_codes=[0, 3, 1]))
+
+(Observation(time=2026-02-08 14:52:10.417435+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8088, longitude=-73.91,
+  temperature=26.5 C,
+  humidity=66.0 %,
+  salinity=33.5 ppt,
+  quality_codes=[3, 4, 1, 0, 5]))
+
+(Observation(time=2026-02-08 15:52:10.427598+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8098, longitude=-73.909,
+  temperature=27.5 C,
+  humidity=67.0 %,
+  salinity=34.5 ppt,
+  quality_codes=[0, 1]))
+
+(Observation(time=2026-02-08 16:52:10.437743+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8108, longitude=-73.908,
+  temperature=28.5 C,
+  humidity=68.0 %,
+  salinity=35.5 ppt,
+  quality_codes=[3, 5]))
+
+(Observation(time=2026-02-08 17:52:10.448285+00:00,
+  node_source=test_node,
+  node_source_id=node_123,
+  sensor_source=test_sensor,
+  sensor_source_id=sensor_456,
+  latitude=40.8118, longitude=-73.907,
+  temperature=29.5 C,
+  humidity=69.0 %,
+  salinity=36.5 ppt,
+  quality_codes=[1, 3, 2]))
+
+✅ Client script executed successfully

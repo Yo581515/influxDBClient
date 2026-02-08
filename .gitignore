@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
+*.o
+*.so
+
+# InfluxDB
+.influxdbv2/
+influx-configs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# Project specific
+data/
+*.db
+
+venv/
+venv
+.env*
